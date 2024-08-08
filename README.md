@@ -11,11 +11,11 @@ SQLite: A lightweight, disk-based database, which is simple to set up and use.
 API Endpoints
 
 #Projects
-Create a new project: POST /projects/
-Retrieve all projects: GET /projects/
-Retrieve a specific project: GET /projects/{project_id}
-Update a project: PUT /projects/{project_id}
-Delete a project: DELETE /projects/{project_id}
+#Create a new project: POST /projects/
+#Retrieve all projects: GET /projects/
+#Retrieve a specific project: GET /projects/{project_id}
+#Update a project: PUT /projects/{project_id}
+#Delete a project: DELETE /projects/{project_id}
 
 #Blog Posts
 Create a new blog post: POST /blog_posts/
